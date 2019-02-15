@@ -27,7 +27,8 @@
 
 	    <ListView android:id="@android:id/list"
 	        android:layout_width="match_parent"
-	        android:layout_height="match_parent" />
+	        android:layout_height="match_parent"
+	        android:cacheColorHint="@android:color/background_dark"	/>
 
 	    <TextView android:id="@android:id/empty"
 	         android:layout_width="match_parent"
