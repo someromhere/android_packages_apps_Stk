@@ -43,7 +43,7 @@
             <TextView android:id="@+id/title_text"
                 android:gravity="center_vertical"
                 android:layout_width="match_parent"
-                android:layout_height="32dip"
+                android:layout_height="24dip"
                 android:ellipsize="end"
                 android:maxLines="1"
                 style="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title" />
