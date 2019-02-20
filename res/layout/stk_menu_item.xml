@@ -19,6 +19,7 @@
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	android:gravity="center"
+	android:background="#000000"
 	android:orientation="horizontal">
 
 	<ImageView
@@ -36,6 +37,7 @@
         android:layout_height="wrap_content"
         android:maxLength="234"
         android:minHeight="?android:attr/listPreferredItemHeight"
+		android:textColor="@android:color/white"
 	    android:textAppearance="?android:attr/textAppearanceLarge"
 	    android:gravity="center_vertical"
 	    android:layout_marginLeft="9dip"
