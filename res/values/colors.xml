@@ -16,5 +16,5 @@
 
 <resources>
     <color name="ltgrey">#000000</color>
-    <color name="bright_foreground_dark">#ffffff</color>
+    <color name="bright_foreground_dark">#000000</color>
 </resources>
